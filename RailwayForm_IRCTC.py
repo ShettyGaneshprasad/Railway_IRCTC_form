@@ -1,10 +1,5 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'C:\Users\91790\Desktop\RailwayForm.ui'
-#
-# Created by: PyQt5 UI code generator 5.13.0
-#
-# WARNING! All changes made in this file will be lost!
+#Author of the code Shetty Ganeshprasad Santhosh 
+#10-11-2019
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
